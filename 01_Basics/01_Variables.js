@@ -11,3 +11,6 @@ console.log(typeof accountCity);
 console.table([accountId, accountEmail, accountPassword, accountCity]);
 let myName;
 console.log(myName);
+
+// Do not use Var - it doesnt have any scope
+// Use let which has Scope
